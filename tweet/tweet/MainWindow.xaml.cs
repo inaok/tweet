@@ -23,7 +23,6 @@ namespace tweet
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox.Show("ok");
         }
     }
 }
